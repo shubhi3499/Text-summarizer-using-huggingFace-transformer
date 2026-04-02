@@ -70,9 +70,13 @@ thousands of messenger-like dialogues paired with human-written summaries.
 
 ## To add it to your repo
 
-bash# create the file
-touch README.md
+1.bash# create the file
+
+2.touch README.md
+
 # paste the content above, then:
-git add README.md
-git commit -m "add README"
-git push
+3.git add README.md
+
+4.git commit -m "add README"
+
+5.git push
