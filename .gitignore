@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+
+# Model files (too large for GitHub)
+saved_summary_model/
+
+# Dataset CSV files (large files)
+samsum-test.csv
+samsum-train.csv
+samsum-validation.csv
+
+# Results folder
+results/
+
+# macOS
+.DS_Store
